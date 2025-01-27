@@ -1,15 +1,15 @@
 # Anomaly_detection_MultimodalUniverse_Data
 Anomaly detection is an important task in astronomy. From a subset of this dataset, build a multimodal architecture that will detect anomalies in the data. Classify outliers vs regular data.
 
-# 0. Create Environemnt & INstallations
+# 0. Create Environemnt & Installations
+
 `conda create -n anomaly'
+
 'git clone https://github.com/MultimodalUniverse/MultimodalUniverse.git'
  
  Install Required Libraries: Make sure you have all necessary libraries installed, including CLIP, DINO, and others for multimodal models.
 
 `pip install -r requirements.txt`
-
-
 
 
 # 1. Data
