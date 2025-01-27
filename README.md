@@ -7,8 +7,8 @@ Anomaly detection is an important task in astronomy. From a subset of this datas
  
  Install Required Libraries: Make sure you have all necessary libraries installed, including CLIP, DINO, and others for multimodal models.
 
-`pip install datasets torch transformers clip-by-openai`
-`pip install transformers torchvision`
+'pip install -r requirements.txt'
+
 
 
 
